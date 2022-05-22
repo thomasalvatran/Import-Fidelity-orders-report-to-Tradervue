@@ -1,6 +1,6 @@
 # Import-Fidelity-orders-report-to-Tradervue
 It allows to import csv file from Fidelity orders report to Tradervue for futher analysis.<br>
-<b>HOW TO DELETE a REF CELL in EXCEL breadsheet</b> <br>
+<b>HOW TO DELETE a REF CELL in EXCEL spreadsheet CSV</b> <br>
 This procedure shows that reference cell REF can be deleted if it stored in absolute values in memory like Const or Macro in C <br>
 ![image](https://user-images.githubusercontent.com/1938390/169705426-857070a3-8255-4a06-a69e-e170d9a3f403.png) <br>
 When call function or formula in excel reference to another cell to get result but then it cannot delete because its reference
