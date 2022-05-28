@@ -1,0 +1,346 @@
+Order Status,,,,,
+05/27/2022 07:03:10 PM ET,,,,,
+,,,,,
+Symbol,Status,Order Time,Order Type,Trade Description,Quantity
+AVDL,"FILLED AT
+$1.47","07:42:23 AM
+05/27/2022",Limit at $1.47,Buy 100 Limit at $1.47  ,100
+AVDL,"FILLED AT
+$1.54","07:43:43 AM
+05/27/2022",Limit at $1.44,Sell 100 Limit at $1.44  ,100
+AVDL,"FILLED AT
+$1.44","07:49:52 AM
+05/27/2022",Limit at $1.50,Buy 100 Limit at $1.50  ,100
+AVDL,"FILLED AT
+$1.44","07:53:17 AM
+05/27/2022",Limit at $1.51,Buy 100 Limit at $1.51  ,100
+AVDL,"FILLED AT
+$1.42","08:05:04 AM
+05/27/2022",Limit at $1.30,Sell 100 Limit at $1.30  ,100
+AVDL,"FILLED AT
+$1.44","08:11:53 AM
+05/27/2022",Limit at $1.37,Sell 100 Limit at $1.37  ,100
+AVDL,"FILLED AT
+$1.48","08:12:40 AM
+05/27/2022",Limit at $1.52,Buy 100 Limit at $1.52  ,100
+AVDL,"FILLED AT
+$1.47","08:14:42 AM
+05/27/2022",Limit at $1.51,Buy 50 Limit at $1.51  ,50
+AVDL,"FILLED AT
+$1.49","08:15:37 AM
+05/27/2022",Limit at $1.41,Sell 100 Limit at $1.41  ,100
+AVDL,"FILLED AT
+$1.51","08:16:05 AM
+05/27/2022",Limit at $1.44,Sell 50 Limit at $1.44  ,50
+AVDL,"FILLED AT
+$1.51","08:16:27 AM
+05/27/2022",Limit at $1.56,Buy 100 Limit at $1.56  ,100
+AVDL,"FILLED AT
+$1.50","08:17:50 AM
+05/27/2022",Limit at $1.40,Sell 100 Limit at $1.40  ,100
+AVDL,"FILLED AT
+$1.51","08:18:21 AM
+05/27/2022",Limit at $1.56,Buy 100 Limit at $1.56  ,100
+AMC,"FILLED AT
+$12.47","08:26:47 AM
+05/27/2022",Limit at $12.47,Buy 30 Limit at $12.47  ,30
+AMC,"FILLED AT
+$12.41","08:32:42 AM
+05/27/2022",Limit at $12.41,Buy 20 Limit at $12.41  ,20
+SIGA,"FILLED AT
+$10.82","08:36:23 AM
+05/27/2022",Limit at $10.87,Buy 100 Limit at $10.87  ,100
+SIGA,"FILLED AT
+$10.89","08:40:55 AM
+05/27/2022",Limit at $10.60,Sell 50 Limit at $10.60  ,50
+SIGA,"FILLED AT
+$10.92","08:41:27 AM
+05/27/2022",Limit at $10.91,Sell 50 Limit at $10.91  ,50
+AMC,"FILLED AT
+$12.50","08:44:08 AM
+05/27/2022",Limit at $12.42,Sell 30 Limit at $12.42  ,30
+AVDL,"FILLED AT
+$1.52","08:44:17 AM
+05/27/2022",Limit at $1.30,Sell 100 Limit at $1.30  ,100
+AMC,"FILLED AT
+$12.72","08:51:06 AM
+05/27/2022",Limit at $12.79,Buy 30 Limit at $12.79  ,30
+AMC,"FILLED AT
+$12.62","08:53:53 AM
+05/27/2022",Limit at $12.62,Buy 20 Limit at $12.62  ,20
+AVDL,"FILLED AT
+$1.66","09:08:38 AM
+05/27/2022",Limit at $1.71,Buy 100 Limit at $1.71  ,100
+AVDL,"FILLED AT
+$1.70","09:11:26 AM
+05/27/2022",Limit at $1.50,Sell 50 Limit at $1.50  ,50
+AVDL,"FILLED AT
+$1.71","09:12:29 AM
+05/27/2022",Limit at $1.65,Sell 50 Limit at $1.65  ,50
+AMC,"FILLED AT
+$12.68","09:13:33 AM
+05/27/2022",Limit at $12.56,Sell 50 Limit at $12.56  ,50
+MSFT,"FILLED AT
+$269.22","09:35:49 AM
+05/27/2022",Limit at $269.38,Buy 3 Limit at $269.38  ,3
+AMD,"FILLED AT
+$101.83","09:36:09 AM
+05/27/2022",Limit at $101.83,Buy 3 Limit at $101.83  ,3
+TSLA,"FILLED AT
+$736.00","09:36:22 AM
+05/27/2022",Limit at $736.00,Buy 1 Limit at $736.00  ,1
+NVDA,"FILLED AT
+$184.85","09:36:33 AM
+05/27/2022",Limit at $184.85,Buy 3 Limit at $184.85  ,3
+NCLH,"FILLED AT
+$15.87","09:37:21 AM
+05/27/2022",Limit at $15.88,Buy 5 Limit at $15.88  ,5
+NCLH,"FILLED AT
+$15.80","09:38:08 AM
+05/27/2022",Limit at $15.80,Buy 5 Limit at $15.80  ,5
+CCL,"FILLED AT
+$13.64","09:38:38 AM
+05/27/2022",Limit at $13.72,Buy 50 Limit at $13.72  ,50
+FB,"FILLED AT
+$192.16","09:42:05 AM
+05/27/2022",Limit at $192.43,Buy 3 Limit at $192.43  ,3
+FB,"FILLED AT
+$191.33","09:42:59 AM
+05/27/2022",Limit at $191.71,Buy 2 Limit at $191.71  ,2
+AMD,"FILLED AT
+$99.99","09:45:34 AM
+05/27/2022",Limit at $99.99,Buy 2 Limit at $99.99  ,2
+NVDA,"FILLED AT
+$182.44","09:46:29 AM
+05/27/2022",Limit at $182.72,Buy 2 Limit at $182.72  ,2
+AMC,"FILLED AT
+$12.55","09:47:32 AM
+05/27/2022",Stop Loss at $12.55,Sell 20 Stop Loss at $12.55  ,20
+SHOP,"FILLED AT
+$359.66","09:48:57 AM
+05/27/2022",Limit at $360.00,Buy 1 Limit at $360.00  ,1
+TSLA,"FILLED AT
+$740.04","09:50:46 AM
+05/27/2022",Limit at $740.71,Buy 1 Limit at $740.71  ,1
+BABA,"FILLED AT
+$91.78","09:51:40 AM
+05/27/2022",Limit at $91.78,Buy 3 Limit at $91.78  ,3
+RDBX,"FILLED AT
+$8.33","09:54:40 AM
+05/27/2022",Limit at $8.33,Buy 50 Limit at $8.33  ,50
+RDBX,"FILLED AT
+$8.28","10:01:10 AM
+05/27/2022",Market,Sell 50 at Market  ,50
+AMC,"FILLED AT
+$12.84","10:02:31 AM
+05/27/2022",Limit at $12.88,Buy 10 Limit at $12.88  ,10
+AMC,"FILLED AT
+$12.965","10:03:11 AM
+05/27/2022",Limit at $12.86,Sell 10 Limit at $12.86  ,10
+AMC,"FILLED AT
+$13.28","10:04:51 AM
+05/27/2022",Limit at $13.28,Buy 10 Limit at $13.28  ,10
+AMC,"FILLED AT
+$13.15","10:05:32 AM
+05/27/2022",Limit at $13.10,Sell 10 Limit at $13.10  ,10
+MSFT,"FILLED AT
+$271.38","10:10:03 AM
+05/27/2022",Limit at $271.45,Buy 3 Limit at $271.45  ,3
+MRNA,"FILLED AT
+$142.89","10:14:13 AM
+05/27/2022",Limit at $142.89,Buy 3 Limit at $142.89  ,3
+AMC,"FILLED AT
+$13.235","10:14:31 AM
+05/27/2022",Limit at $13.90,Buy 5 Limit at $13.90  ,5
+AMC,"FILLED AT
+$13.33","10:16:12 AM
+05/27/2022",Limit at $13.33,Buy 5 Limit at $13.33  ,5
+MRVL,"FILLED AT
+$58.7518","10:18:14 AM
+05/27/2022",Limit at $58.80,Buy 1 Limit at $58.80  ,1
+CCL,"FILLED AT
+$13.48","10:20:43 AM
+05/27/2022",Stop Loss at $13.48,Sell 50 Stop Loss at $13.48  ,50
+NVDA,"FILLED AT
+$186.26","10:21:57 AM
+05/27/2022",Limit at $186.26,Buy 2 Limit at $186.26  ,2
+BABA,"FILLED AT
+$92.52","10:27:35 AM
+05/27/2022",Limit at $92.53,Buy 1 Limit at $92.53  ,1
+AMC,"FILLED AT
+$12.95","10:28:12 AM
+05/27/2022",Limit at $12.95,Buy 10 Limit at $12.95  ,10
+NVDA,"FILLED AT
+$185.00","10:30:54 AM
+05/27/2022",Limit at $185.00,Buy 1 Limit at $185.00  ,1
+SHOP,"FILLED AT
+$364.55","10:32:13 AM
+05/27/2022",Limit at $364.68,Buy 1 Limit at $364.68  ,1
+TSLA,"FILLED AT
+$749.09","10:32:37 AM
+05/27/2022",Limit at $749.20,Buy 1 Limit at $749.20  ,1
+MRNA,"FILLED AT
+$144.47","10:34:34 AM
+05/27/2022",Limit at $144.55,Buy 1 Limit at $144.55  ,1
+MRNA,"FILLED AT
+$143.90","10:36:33 AM
+05/27/2022",Limit at $143.90,Buy 1 Limit at $143.90  ,1
+SQ,"FILLED AT
+$89.29","10:41:45 AM
+05/27/2022",Limit at $89.56,Buy 1 Limit at $89.56  ,1
+MRNA,"FILLED AT
+$143.20","10:46:59 AM
+05/27/2022",Limit at $143.20,Buy 1 Limit at $143.20  ,1
+AVDL,"FILLED AT
+$2.35","10:52:20 AM
+05/27/2022",Limit at $2.37,Buy 100 Limit at $2.37  ,100
+AVDL,"FILLED AT
+$2.32","10:55:40 AM
+05/27/2022",Limit at $2.32,Buy 20 Limit at $2.32  ,20
+AVDL,"FILLED AT
+$2.30","10:56:07 AM
+05/27/2022",Limit at $2.30,Buy 30 Limit at $2.30  ,30
+IMTE,"FILLED AT
+$8.78","11:12:53 AM
+05/27/2022",Limit at $8.78,Buy 50 Limit at $8.78  ,50
+IMTE,"FILLED AT
+$8.77","11:13:19 AM
+05/27/2022",Limit at $8.90,Buy 50 Limit at $8.90  ,50
+IMTE,"FILLED AT
+$8.45","11:13:59 AM
+05/27/2022",Stop Loss at $8.48,Sell 100 Stop Loss at $8.48  ,100
+AVDL,"FILLED AT
+$2.4113","11:16:33 AM
+05/27/2022",Market,Sell 50 at Market  ,50
+IMTE,"FILLED AT
+$8.78","11:20:50 AM
+05/27/2022",Limit at $8.81,Buy 30 Limit at $8.81  ,30
+AVDL,"FILLED AT
+$2.51","11:21:11 AM
+05/27/2022",Limit at $2.36,Sell 100 Limit at $2.36  ,100
+AVDL,"FILLED AT
+$2.57","11:22:37 AM
+05/27/2022",Limit at $2.63,Buy 100 Limit at $2.63  ,100
+SIGA,"FILLED AT
+$11.84","11:26:32 AM
+05/27/2022",Limit at $11.90,Buy 50 Limit at $11.90  ,50
+IMTE,"FILLED AT
+$9.05","11:28:32 AM
+05/27/2022",Limit at $8.60,Sell 30 Limit at $8.60  ,30
+SIGA,"FILLED AT
+$12.05","11:33:05 AM
+05/27/2022",Limit at $11.74,Sell 50 Limit at $11.74  ,50
+SIGA,"FILLED AT
+$12.38","11:45:20 AM
+05/27/2022",Limit at $12.41,Buy 20 Limit at $12.41  ,20
+SIGA,"FILLED AT
+$12.55","11:46:18 AM
+05/27/2022",Limit at $12.55,Buy 10 Limit at $12.55  ,10
+FTCH,"FILLED AT
+$9.645","11:58:59 AM
+05/27/2022",Limit at $9.73,Buy 10 Limit at $9.73  ,10
+FTCH,"FILLED AT
+$9.665","11:59:43 AM
+05/27/2022",Limit at $9.67,Buy 20 Limit at $9.67  ,20
+AVDL,"FILLED AT
+$2.44","12:01:16 PM
+05/27/2022",Limit at $2.45,Buy 20 Limit at $2.45  ,20
+BB,"FILLED AT
+$6.605","12:03:47 PM
+05/27/2022",Limit at $6.66,Buy 40 Limit at $6.66  ,40
+BB,"FILLED AT
+$6.57","12:04:43 PM
+05/27/2022",Limit at $6.62,Buy 10 Limit at $6.62  ,10
+AVDL,"FILLED AT
+$2.485","12:12:34 PM
+05/27/2022",Limit at $2.38,Sell 70 Limit at $2.38  ,70
+AVDL,"FILLED AT
+$2.34","12:24:35 PM
+05/27/2022",Limit at $2.28,Sell 50 Limit at $2.28  ,50
+CNCE,"FILLED AT
+$6.72","12:25:09 PM
+05/27/2022",Limit at $6.83,Buy 30 Limit at $6.83  ,30
+CNCE,"FILLED AT
+$6.74","12:26:02 PM
+05/27/2022",Limit at $6.79,Buy 30 Limit at $6.79  ,30
+AVDL,"FILLED AT
+$2.385","12:33:03 PM
+05/27/2022",Limit at $2.40,Buy 50 Limit at $2.40  ,50
+SIGA,"FILLED AT
+$12.80","12:45:03 PM
+05/27/2022",Limit at $12.73,Sell 30 Limit at $12.73  ,30
+SIGA,"FILLED AT
+$12.90","12:46:45 PM
+05/27/2022",Limit at $12.90,Buy 30 Limit at $12.90  ,30
+SIGA,"FILLED AT
+$13.45","12:47:49 PM
+05/27/2022",Limit at $12.85,Sell 30 Limit at $12.85  ,30
+MRNA,"FILLED AT
+$145.85","12:50:53 PM
+05/27/2022",Limit at $145.85,Sell 3 Limit at $145.85  ,3
+NCLH,"FILLED AT
+$16.08","12:51:14 PM
+05/27/2022",Limit at $16.03,Sell 10 Limit at $16.03  ,10
+SIGA,"FILLED AT
+$13.85","12:52:46 PM
+05/27/2022",Limit at $13.85,Buy 20 Limit at $13.85  ,20
+FTCH,"FILLED AT
+$9.725","12:56:30 PM
+05/27/2022",Limit at $9.65,Sell 30 Limit at $9.65  ,30
+MRNA,"FILLED AT
+$146.37","12:57:28 PM
+05/27/2022",Limit at $146.27,Sell 3 Limit at $146.27  ,3
+MRVL,"FILLED AT
+$59.74","12:57:58 PM
+05/27/2022",Limit at $59.70,Sell 1 Limit at $59.70  ,1
+AMC,"FILLED AT
+$13.34","12:58:46 PM
+05/27/2022",Limit at $13.29,Sell 20 Limit at $13.29  ,20
+TSLA,"FILLED AT
+$750.76","12:59:29 PM
+05/27/2022",Limit at $750.60,Sell 1 Limit at $750.60  ,1
+SHOP,"FILLED AT
+$365.27","12:59:44 PM
+05/27/2022",Limit at $365.12,Sell 1 Limit at $365.12  ,1
+SQ,"FILLED AT
+$89.54","01:01:41 PM
+05/27/2022",Limit at $89.46,Sell 1 Limit at $89.46  ,1
+CNCE,"FILLED AT
+$6.38","01:05:01 PM
+05/27/2022",Stop Loss at $6.40,Sell 60 Stop Loss at $6.40  ,60
+FB,"FILLED AT
+$193.92","01:05:40 PM
+05/27/2022",Limit at $193.84,Sell 5 Limit at $193.84  ,5
+AMD,"FILLED AT
+$100.97","01:06:38 PM
+05/27/2022",Limit at $100.94,Sell 5 Limit at $100.94  ,5
+SIGA,"FILLED AT
+$14.42","01:08:25 PM
+05/27/2022",Limit at $14.37,Sell 20 Limit at $14.37  ,20
+SHOP,"FILLED AT
+$364.45","01:09:04 PM
+05/27/2022",Limit at $364.30,Sell 1 Limit at $364.30  ,1
+NVDA,"FILLED AT
+$185.79","01:09:35 PM
+05/27/2022",Limit at $185.74,Sell 5 Limit at $185.74  ,5
+TSLA,"FILLED AT
+$751.68","01:10:17 PM
+05/27/2022",Limit at $751.56,Sell 1 Limit at $751.56  ,1
+BABA,"FILLED AT
+$93.12","01:10:40 PM
+05/27/2022",Limit at $93.09,Sell 4 Limit at $93.09  ,4
+MSFT,"FILLED AT
+$271.64","01:11:18 PM
+05/27/2022",Limit at $271.59,Sell 6 Limit at $271.59  ,6
+NVDA,"FILLED AT
+$185.78","01:11:48 PM
+05/27/2022",Limit at $185.78,Sell 3 Limit at $185.78  ,3
+TSLA,"FILLED AT
+$752.84","01:12:26 PM
+05/27/2022",Limit at $752.78,Sell 1 Limit at $752.78  ,1
+BB,"FILLED AT
+$6.73","01:12:55 PM
+05/27/2022",Limit at $6.67,Sell 50 Limit at $6.67  ,50
+AVDL,"FILLED AT
+$2.40","01:20:54 PM
+05/27/2022",Limit at $2.30,Sell 50 Limit at $2.30  ,50
