@@ -16,3 +16,7 @@ To save csv file<br>
     Click it to view the contents within the GitHub UI.<br>
     In the top right, right click the Raw button.<br>
     Left click in middle of browser Save as...<br>
+
+Input file using csv Output file accordingly
+Input file using Worksheet Output file accordingly.
+Both file mentioned in the PDF file please read it for more details.
