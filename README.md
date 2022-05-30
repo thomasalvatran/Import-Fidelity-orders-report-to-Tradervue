@@ -21,3 +21,5 @@ Input file using csv Output file accordingly <br>
 Input file using Worksheet Output file csv since Tradervue only reads csv file format..<br>
 Both file mentioned in the PDF file please read it for more details.<br>
 Github can only read csv file for xlsx you need to download and read from Excel <br>
+
+To create csv for Tradervue download either DailyReport_Template.xlsx (Worksheet) or simple csv DailyReport_Template.csv and replace the old columns Order, Description, Quantity with new data.
