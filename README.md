@@ -24,6 +24,6 @@ Github can only read csv file for xlsx you need to download and read from Excel 
 Use template to create your own data: <br>
 To create csv for Tradervue download either DailyReport_Template.xlsx (Worksheet) or simple csv DailyReport_Template.csv and replace the old columns Symbol, Status, Order time, Order Type, Trade Description, Quantity with new data. <br>
 Tradervue prefers csv file if using xlsx need to save as svc after creating data from formulas provided.
-This is tradervue import from Tradervue.com
+This is tradervue import 
 ![image](https://user-images.githubusercontent.com/1938390/171069856-57a01b66-6e1a-4117-b5d6-a4789a16081e.png)
 
