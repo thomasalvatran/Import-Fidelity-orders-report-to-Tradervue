@@ -25,9 +25,9 @@ Use template to create your own data: <br>
 To create csv for Tradervue download either DailyReport_Template.xlsx (Worksheet) or simple csv DailyReport_Template.csv and replace the old columns Symbol, Status, Order time, Order Type, Trade Description, Quantity with new data. <br>
 Templates have the 3 formulas/functions as follows:
 
-<b>Price = VALUE(MID(B5,13,10)) </b>  /*attract the price in the string from 13 takes 10 characters for price replacing B5 to correct cell accordingly to your table */
-Time = TIMEVALUE(LEFT(C5, 11) ) /* attract the time in the string start left takes 11 characters for time replacing C5 accordingly */
-Quantity = IF((ISNUMBER(SEARCH("Sell",e3))),-1,1)*g3 /* return to quantity with sign operator for example -100 is sell 100, 100 is buy 100 */
+<b>Price = VALUE(MID(B5,13,10)) </b>  /*attract the price in the string from 13 takes 10 characters for price replacing B5 to correct cell accordingly to your table */<br>
+<b>Time = TIMEVALUE(LEFT(C5, 11) ) </b> /* attract the time in the string start left takes 11 characters for time replacing C5 accordingly */ <br>
+<b>Quantity = IF((ISNUMBER(SEARCH("Sell",e3))),-1,1)*g3 </b>/* return to quantity with sign operator for example -100 is sell 100, 100 is buy 100 */<br>
 
 Tradervue prefers csv file if using xlsx need to save as svc after creating data from formulas provided.
 This is tradervue import 
