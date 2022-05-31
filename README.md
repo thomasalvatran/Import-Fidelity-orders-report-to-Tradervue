@@ -17,9 +17,6 @@ To save csv file<br>
     In the top right, right click the Raw button.<br>
     Left click in middle of browser Save as...<br>
 
-Input file using csv Output file accordingly <br>
-Input file using Worksheet Output file csv since Tradervue only reads csv file format..<br>
-Both file mentioned in the PDF file please read it for more details.<br>
 Github can only read csv file for xlsx you need to download and read from Excel <br>
 Use template to create your own data: <br>
 To create csv for Tradervue download either DailyReport_Template.xlsx (Worksheet) or simple csv DailyReport_Template.csv and replace the old columns Symbol, Status, Order time, Order Type, Trade Description, Quantity with new data. <br>
