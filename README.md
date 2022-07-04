@@ -31,4 +31,4 @@ Tradervue prefers csv file if using xlsx need to save as svc after creating data
 This is tradervue import 
 ![image](https://user-images.githubusercontent.com/1938390/171069856-57a01b66-6e1a-4117-b5d6-a4789a16081e.png)
 
-https://youtu.be/OSmDdCexS_g
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OSmDdCexS_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
