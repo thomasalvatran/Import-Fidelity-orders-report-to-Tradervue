@@ -31,4 +31,6 @@ Tradervue prefers csv file if using xlsx need to save as svc after creating data
 This is tradervue import 
 ![image](https://user-images.githubusercontent.com/1938390/171069856-57a01b66-6e1a-4117-b5d6-a4789a16081e.png)
 
-[![Alt text for your video](https://i.imgur.com/tDNtAhP.png)](https://youtu.be/OSmDdCexS_g "Put hover text here!")
+
+
+[<img src="https://youtu.be/OSmDdCexS_g/maxresdefault.jpg" width="50%">](https://youtu.be/OSmDdCexS_g)
