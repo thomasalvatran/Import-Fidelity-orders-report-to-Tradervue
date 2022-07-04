@@ -32,4 +32,4 @@ This is tradervue import
 ![image](https://user-images.githubusercontent.com/1938390/171069856-57a01b66-6e1a-4117-b5d6-a4789a16081e.png)
 
 
-[<img src="[https://i.imgur.com/tDNtAhP.png](https://user-images.githubusercontent.com/1938390/177206907-d363cb19-d65d-4700-8b3a-037b4f4f3830.png)" width="50%">](https://youtu.be/OSmDdCexS_g)
+[<img src="[https://user-images.githubusercontent.com/1938390/171069856-57a01b66-6e1a-4117-b5d6-a4789a16081e.png" width="50%">](https://youtu.be/OSmDdCexS_g)
