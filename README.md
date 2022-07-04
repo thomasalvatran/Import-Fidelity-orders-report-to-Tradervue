@@ -33,4 +33,4 @@ This is tradervue import
 
 
 
-[<img src="https://youtu.be/OSmDdCexS_g/maxresdefault.jpg" width="50%">](https://youtu.be/OSmDdCexS_g)
+[<img src="https://i.imgur.com/tDNtAhP.png" width="50%">](https://youtu.be/OSmDdCexS_g)
