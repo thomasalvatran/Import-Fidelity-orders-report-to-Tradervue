@@ -27,8 +27,10 @@ Templates have the 5 formulas/functions copy and paste by values the results to 
 <b>Quantity = IF((ISNUMBER(SEARCH("Sell",e3))),-1,1)\*g3 </b> //_return to quantity with sign operator for example -100 is sell 100, 100 is buy 100_ <br>
 <b>Date = today() </b> //_return today date_ <br>
 <b>Orders=row(a1) </b> //_return order number_ <br>
+For shortcut Ctrl-C copy cell has formulas then Ctrl-Shift Arrow down to the end. It is same as drap the mouse down to copy. Here it copies the whole column.
+Copy the copy whole column then paste by values then delete columns have formulas because it is used reference the values therefore it cannot delete until copy by values is done. This is important of the whole project how to transfer a reference to absolute values and excel has copy and paste by values.
 Tradervue prefers csv file if using xlsx need to save as svc after creating data from formulas provided.
-This is tradervue import 
+This is tradervue import a new csv file 
 ![image](https://user-images.githubusercontent.com/1938390/171069856-57a01b66-6e1a-4117-b5d6-a4789a16081e.png)
-
+If the python is using to generate csv file instead of using excel then python ver > 3.6
 [<img src="https://i.imgur.com/RfQsAJZ.png" width="80%">](https://youtu.be/OSmDdCexS_g)
