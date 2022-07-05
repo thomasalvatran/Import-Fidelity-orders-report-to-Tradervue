@@ -30,8 +30,10 @@ Templates have the 5 formulas/functions copy and paste by values the results to 
 For shortcut Ctrl-C copy cell has formulas then Ctrl-Shift Arrow down to the end. It is same as drap the mouse down to copy. Here it copies the whole column.
 Copy the copy whole column then paste by values then delete columns have formulas because it is used reference the values therefore it cannot delete until copy by values is done. This is important of the whole project how to transfer a reference to absolute values and excel has copy and paste by values.
 Tradervue prefers csv file if using xlsx need to save as svc after creating data from formulas provided.
-This is tradervue import a new csv file. The option is general format as indicated. 
+This is tradervue import a new csv file. The option is generic format as indicated. 
 ![image](https://user-images.githubusercontent.com/1938390/171069856-57a01b66-6e1a-4117-b5d6-a4789a16081e.png) 
 <br>
-If the python is using to generate csv file instead of using excel then python ver > 3.6
+
+Another method is using Python to generate csv file instead of using excel then python ver > 3.6. See video for details. <br>
+C:\Users\tv\Downloads\Tradervue project>python FidelitytoTradervue.py <br>
 [<img src="https://i.imgur.com/RfQsAJZ.png" width="80%">](https://youtu.be/OSmDdCexS_g)
