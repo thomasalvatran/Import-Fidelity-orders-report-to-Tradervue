@@ -31,6 +31,7 @@ For shortcut Ctrl-C copy cell has formulas then Ctrl-Shift Arrow down to the end
 Copy the copy whole column then paste by values then delete columns have formulas because it is used reference the values therefore it cannot delete until copy by values is done. This is important of the whole project how to transfer a reference to absolute values and excel has copy and paste by values.
 Tradervue prefers csv file if using xlsx need to save as svc after creating data from formulas provided.
 This is tradervue import a new csv file 
-![image](https://user-images.githubusercontent.com/1938390/171069856-57a01b66-6e1a-4117-b5d6-a4789a16081e.png)
+![image](https://user-images.githubusercontent.com/1938390/171069856-57a01b66-6e1a-4117-b5d6-a4789a16081e.png) 
+<br>
 If the python is using to generate csv file instead of using excel then python ver > 3.6
 [<img src="https://i.imgur.com/RfQsAJZ.png" width="80%">](https://youtu.be/OSmDdCexS_g)
