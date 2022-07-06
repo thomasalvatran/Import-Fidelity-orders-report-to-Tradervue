@@ -37,3 +37,9 @@ This is tradervue import a new csv file. The option is generic format as indicat
 Another method is using Python to generate csv file instead of using excel then python ver > 3.6. See video for details. <br>
 C:\Users\tv\Downloads\Tradervue project>python FidelitytoTradervue.py <br>
 [<img src="https://i.imgur.com/RfQsAJZ.png" width="80%">](https://youtu.be/OSmDdCexS_g)
+
+The result that it shows you time to execute the trade up to second so you can go back to review your trader.
+![image](https://user-images.githubusercontent.com/1938390/177535573-d326a968-9af2-4dc7-8401-4484580c2f83.png)
+
+![image](https://user-images.githubusercontent.com/1938390/177535691-861ed8b4-6597-4c7d-b0d8-48e8ba9a4a9f.png)
+
