@@ -41,5 +41,5 @@ C:\Users\tv\Downloads\Tradervue project>python FidelitytoTradervue.py <br>
 The result that it shows you time to execute the trade up to second so you can go back to review your trader.
 ![image](https://user-images.githubusercontent.com/1938390/177535573-d326a968-9af2-4dc7-8401-4484580c2f83.png)
 
-![image](https://user-images.githubusercontent.com/1938390/177535691-861ed8b4-6597-4c7d-b0d8-48e8ba9a4a9f.png)
+![image](https://user-images.githubusercontent.com/1938390/177536718-23a1e33e-bfdb-4bae-b1c4-f2862faac7c5.png)
 
