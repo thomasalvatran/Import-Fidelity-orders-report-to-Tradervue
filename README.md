@@ -38,7 +38,7 @@ Another method is using Python to generate csv file instead of using excel then 
 C:\Users\tv\Downloads\Tradervue project>python FidelitytoTradervue.py <br>
 [<img src="https://i.imgur.com/RfQsAJZ.png" width="80%">](https://youtu.be/OSmDdCexS_g)
 
-The result that it shows you time to execute the trade up to second so you can go back to review your trader.
+The result that it shows the time of execution up to the second of the trade so you can go back to review your trade.
 ![image](https://user-images.githubusercontent.com/1938390/177535573-d326a968-9af2-4dc7-8401-4484580c2f83.png)
 
 ![image](https://user-images.githubusercontent.com/1938390/177536718-23a1e33e-bfdb-4bae-b1c4-f2862faac7c5.png)
